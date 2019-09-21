@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "version": "0.0.0",
+  "description": "",
+  "author": {
+    "name": "郭佳",
+    "email": "guojia0902@gmail.com"
+  },
+  "main": "",
+  "keywords": [
+    "gene"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": "",
+  "license": "MIT"
+}
